@@ -39,8 +39,8 @@ def get_config():
 
         #reservado para ubicacion de los archivos
 
-        "folder": Path("/content/"),
-        "folder_m": Path("/content/")
+        "folder": Path("/content/digitos"),
+        "folder_m": Path("/content/drive/MyDrive/digitos_densenet121")
     }
 
 
