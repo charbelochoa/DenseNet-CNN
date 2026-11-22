@@ -1,5 +1,8 @@
 # Clasificador de dígitos escritos a mano con DenseNet
 
+readme generado con IA*
+
+
 Proyecto de aprendizaje automático que implementa una red neuronal convolucional basada en DenseNet para clasificar imágenes de dígitos escritos a mano.
 
 El programa permite entrenar el modelo desde cero, evaluar su desempeño y guardar automáticamente el mejor punto de control durante el entrenamiento.
